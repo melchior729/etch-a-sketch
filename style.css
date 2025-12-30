@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.item {
+    flex: auto;
+    border: 2px solid black;
+    aspect-ratio: 1 / 1;
+    width: 100px;
+    filter: brightness(90%);
+}
+
+button {
+    margin: 20px;
+}
