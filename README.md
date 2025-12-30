@@ -24,5 +24,4 @@ https://melchior729.github.io/etch-a-sketch/
 ```text
 ├── index.html        # Main application page
 ├── style.css         # Styling and layout
-├── script.js         # Core drawing logic
-└── README.md         # Project documentation
+└── script.js         # Core drawing logic
